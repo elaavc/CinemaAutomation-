@@ -39,6 +39,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "SalonC";
             this.Text = "SalonC";
+            this.Load += new System.EventHandler(this.SalonC_Load);
             this.ResumeLayout(false);
 
         }

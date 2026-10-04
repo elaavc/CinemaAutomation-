@@ -229,12 +229,6 @@ namespace sinemaotomasyonu
                 return;
             }
 
-            DateTime secilen = seciliGun.Date + seciliSaat;
-            if (secilen < DateTime.Now)
-            {
-                MessageBox.Show("Zamanı geçmiş seans! Bilet alınamaz.");
-                return;
-            }
 
             bool yesilKoltukVarMi = false;
             foreach (Button k in koltuklar)
@@ -286,6 +280,11 @@ namespace sinemaotomasyonu
             lbl.Text = "Seçilen Koltuk: 0";
 
             koltukOnaylandi = false;
+        }
+
+        private void SalonC_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
