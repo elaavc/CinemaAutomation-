@@ -1,54 +1,74 @@
-# CinemaAutomation-
-🎬 Cinema Automation
+# 🎬 Sinema Bilet Otomasyonu | Cinema Ticket Automation
 
-C# kullanılarak geliştirilmiş bir Sinema Otomasyon Sistemi.
-Kullanıcıların film ve seans seçerek uygun koltukları görüntüleyip bilet satın almasını sağlayan bir masaüstü uygulamasıdır.
+### 🇹🇷 [Türkçe](#türkçe)    |    🇬🇧 [English](#english)
 
-🚀 Özellikler
-🎞️ Film seçimi
-🕐 Seans seçimi
-💺 Koltuk seçimi
-🔴 Dolu ve 🟢 boş koltukların görüntülenmesi
-🎟️ Bilet satın alma işlemi
-💳 Ödeme işlemi
-👤 Kullanıcı işlemleri
-🔐 Gişe görevlisi girişi
-🎫 Bilet bilgilerinin görüntülenmesi
-🛠️ Kullanılan Teknolojiler
-C#
-.NET
-Windows Forms
-Visual Studio
-📌 Proje Mantığı
+---
 
-Kullanıcı uygulamaya giriş yaptıktan sonra film ve seans seçer. Seçilen seansa ait koltuklar görüntülenir. Dolu koltuklar kullanıcıya gösterilir ve yalnızca uygun koltuklardan seçim yapılabilir.
+# 🇹🇷 Türkçe
 
-Koltuk seçiminin ardından bilet bilgileri oluşturulur ve ödeme işlemi gerçekleştirilir.
+C# kullanılarak geliştirilen, **Windows Forms tabanlı sinema bilet otomasyon sistemi** projesidir.
 
-🔑 Demo Giriş Bilgileri
+Bu proje ile film seçimi, salon seçimi, tarih ve seans seçimi, koltuk seçimi, bilet satın alma ve ödeme işlemlerinin bir masaüstü uygulaması içerisinde gerçekleştirilmesi amaçlanmıştır.
 
-Kullanıcı Adı: Gisegorevlisi
-Şifre: MersinUni33.
+## ✨ Özellikler
 
-Bu bilgiler proje içerisindeki demo/test amaçlı giriş bilgileridir.
+- 🔐 Kullanıcı girişi
+- 🎬 Film seçimi
+- 🏛️ Sinema salonu seçimi
+- 📅 Tarih ve seans seçimi
+- 💺 Koltuk seçimi
+- 🪑 Rastgele dolu koltuklar
+- 🎟️ Bilet satın alma
+- 💳 Ödeme ekranı
+- ⚠️ Giriş ve seçim kontrolleri
 
-## 📸 Screenshots
+## 🛠️ Kullanılan Teknolojiler
 
-### 🔐 Login Screen
-<img src="Screenshots/login-screen.png" width="400">
+- **C#**
+- **Windows Forms**
+- **.NET**
+- **Visual Studio**
 
-### 🎬 Movies Screen
-<img src="Screenshots/movies-screen.png" width="700">
+## 🎬 Çalışma Mantığı
 
-### 💺 Seat Selection
-<img src="Screenshots/seat-selection.png" width="700">
+1. Kullanıcı giriş ekranı üzerinden sisteme giriş yapar.
+2. Vizyondaki filmler arasından seçim yapılır.
+3. Film için ilgili sinema salonu açılır.
+4. Tarih ve seans saati seçilir.
+5. Boş koltuklar arasından seçim yapılır.
+6. Koltuk seçimi onaylanır.
+7. Bilet satın alma ekranına geçilir.
+8. Ödeme işlemi tamamlanır.
 
-### ✅ Selected Seats
-<img src="Screenshots/selected-seats.png" width="700">
+## 📸 Ekran Görüntüleri
 
-### 🎟️ Ticket Screen
-<img src="Screenshots/ticket-screen.png" width="500">
+### 🔐 Giriş Ekranı
 
-### 💳 Payment Screen
-<img src="Screenshots/payment-screen.png" width="500">
-<img src="Screenshots/payment-screen.jpg" width="500">
+<img src="Screenshots/login-screen.png" width="320">
+
+### 🎬 Film Seçim Ekranı
+
+<img src="Screenshots/movies-screen.png" width="500">
+
+### 💺 Koltuk Seçimi
+
+<img src="Screenshots/seat-selection.png" width="500">
+
+### ✅ Seçilen Koltuklar
+
+<img src="Screenshots/selected-seats.png" width="500">
+
+### 🎟️ Bilet Ekranı
+
+<img src="Screenshots/ticket-screen.png" width="420">
+
+### 💳 Ödeme Ekranı
+
+<img src="Screenshots/payment-screen.png" width="420">
+
+## 🚀 Projeyi Çalıştırma
+
+1. Repository'yi klonlayın:
+
+```bash
+git clone https://github.com/elaavc/CinemaAutomation-.git
