@@ -36,19 +36,19 @@ Bu bilgiler proje içerisindeki demo/test amaçlı giriş bilgileridir.
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-<img src="Screenshots/login-screen.png" width="400">
+<img src="Screenshots/login-screen.jpg" width="400">
 
 ### 🎬 Movies Screen
-<img src="Screenshots/movies-screen.png" width="700">
+<img src="Screenshots/movies-screen.jpg" width="700">
 
 ### 💺 Seat Selection
-<img src="Screenshots/seat-selection.png" width="700">
+<img src="Screenshots/seat-selection.jpg" width="700">
 
 ### ✅ Selected Seats
-<img src="Screenshots/selected-seats.png" width="700">
+<img src="Screenshots/selected-seats.jpg" width="700">
 
 ### 🎟️ Ticket Screen
-<img src="Screenshots/ticket-screen.png" width="500">
+<img src="Screenshots/ticket-screen.jpg" width="500">
 
 ### 💳 Payment Screen
-<img src="Screenshots/payment-screen.png" width="500">
+<img src="Screenshots/payment-screen.jpg" width="500">
