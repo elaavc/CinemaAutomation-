@@ -70,6 +70,13 @@ Bu proje ile film seçimi, salon seçimi, tarih ve seans seçimi, koltuk seçimi
 
 <a name="english"></a>
 
+## 📌 Proje Durumu
+
+Bu proje, **C# ve Windows Forms programlama konularını uygulamalı olarak geliştirmek** amacıyla hazırlanmış bir masaüstü uygulamasıdır.
+
+---
+
+
 # 🇬🇧 English
 
 A **Windows Forms-based cinema ticket automation system** developed using **C#**.
