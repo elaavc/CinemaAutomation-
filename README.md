@@ -1,8 +1,10 @@
 # 🎬 Sinema Bilet Otomasyonu | Cinema Ticket Automation
 
-### 🇹🇷 [Türkçe](#türkçe)    |    🇬🇧 [English](#english)
+### 🇹🇷 [Türkçe](#turkce) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 🇬🇧 [English](#english)
 
 ---
+
+<a name="turkce"></a>
 
 # 🇹🇷 Türkçe
 
@@ -66,9 +68,74 @@ Bu proje ile film seçimi, salon seçimi, tarih ve seans seçimi, koltuk seçimi
 
 <img src="Screenshots/payment-screen.png" width="420">
 
-## 🚀 Projeyi Çalıştırma
+<a name="english"></a>
 
-1. Repository'yi klonlayın:
+# 🇬🇧 English
 
-```bash
-git clone https://github.com/elaavc/CinemaAutomation-.git
+A **Windows Forms-based cinema ticket automation system** developed using **C#**.
+
+The project aims to simulate a complete cinema ticket purchasing process within a desktop application, including movie selection, cinema hall selection, date and session selection, seat selection, ticket purchase, and payment.
+
+## ✨ Features
+
+- 🔐 User login
+- 🎬 Movie selection
+- 🏛️ Cinema hall selection
+- 📅 Date and session selection
+- 💺 Seat selection
+- 🪑 Randomly occupied seats
+- 🎟️ Ticket purchase
+- 💳 Payment screen
+- ⚠️ Input and selection validation
+
+## 🛠️ Technologies
+
+- **C#**
+- **Windows Forms**
+- **.NET**
+- **Visual Studio**
+
+## 🎬 How It Works
+
+1. The user logs into the system.
+2. A movie is selected from the available movies.
+3. The corresponding cinema hall is opened.
+4. A date and session time are selected.
+5. Available seats are selected.
+6. The seat selection is confirmed.
+7. The user proceeds to the ticket purchase screen.
+8. The payment process is completed.
+
+## 📸 Screenshots
+
+### 🔐 Login Screen
+
+<img src="Screenshots/login-screen.png" width="320">
+
+### 🎬 Movie Selection
+
+<img src="Screenshots/movies-screen.png" width="500">
+
+### 💺 Seat Selection
+
+<img src="Screenshots/seat-selection.png" width="500">
+
+### ✅ Selected Seats
+
+<img src="Screenshots/selected-seats.png" width="500">
+
+### 🎟️ Ticket Screen
+
+<img src="Screenshots/ticket-screen.png" width="420">
+
+### 💳 Payment Screen
+
+<img src="Screenshots/payment-screen.png" width="420">
+
+## 📌 Project Status
+
+This project was developed as a **desktop application to practice and apply C# and Windows Forms programming concepts**.
+
+---
+
+### 🇹🇷 [Back to Turkish](#turkce)
