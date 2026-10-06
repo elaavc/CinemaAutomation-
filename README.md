@@ -33,4 +33,22 @@ Kullanıcı Adı: Gisegorevlisi
 Bu bilgiler proje içerisindeki demo/test amaçlı giriş bilgileridir.
 
 📷 Ekran Görüntüleri
-Uygulamaya ait ekran görüntüleri daha sonra eklenecektir.
+## 📸 Screenshots
+
+### 🔐 Login Screen
+<img src="Screenshots/login-screen.png" width="400">
+
+### 🎬 Movies Screen
+<img src="Screenshots/movies-screen.png" width="700">
+
+### 💺 Seat Selection
+<img src="Screenshots/seat-selection.png" width="700">
+
+### ✅ Selected Seats
+<img src="Screenshots/selected-seats.png" width="700">
+
+### 🎟️ Ticket Screen
+<img src="Screenshots/ticket-screen.png" width="500">
+
+### 💳 Payment Screen
+<img src="Screenshots/payment-screen.png" width="500">
